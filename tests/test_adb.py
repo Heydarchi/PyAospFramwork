@@ -2,7 +2,7 @@ import sys
 import os
 import unittest
 from mock import patch, MagicMock
-from lib.adb import *
+from adb import *
 
 
 class TestADB(unittest.TestCase):
