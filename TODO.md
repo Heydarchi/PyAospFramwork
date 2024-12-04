@@ -1,0 +1,6 @@
+- [ ] Create the architecture of the framework
+- [ ] Add contribution guideline
+- [ ] Add requirements file
+- [ ] Add shell script to automate installations
+- [ ] Add the documents to the repo's Wiki
+- [ ] Figure out running an  emulator on GitHub
