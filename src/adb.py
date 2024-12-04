@@ -68,7 +68,7 @@ class ADB:
 
 if __name__ == "__main__":
     adb = ADB()
-    
+
     # Check connected devices
     devices = adb.check_devices()
     print("Connected devices:")
