@@ -39,6 +39,6 @@ jobs:
 
     - name: Run tests
       run: pytest test/
-      working-directory: app
+      working-directory: .
       env:
-        PYTHONPATH: ${{ github.workspace }}/app
+        PYTHONPATH: ${{ github.workspace }}/.
